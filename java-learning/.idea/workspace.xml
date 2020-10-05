@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="baa93770-6efd-4e1b-9cc6-9ce20f029f95" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iSRPdunDsyUsusstWrv22EobbI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Application.Fac">
+    <configuration name="DeleteMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shujujiegou.DeleteMax" />
+      <module name="java-learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ljj.study.week1.Fac" />
+      <module name="java-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ljj.study.week1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="week" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week" />
+      <module name="java-learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Fac" />
+        <item itemvalue="Application.DeleteMax" />
+        <item itemvalue="Application.week" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="baa93770-6efd-4e1b-9cc6-9ce20f029f95" name="Default Changelist" comment="" />
+      <created>1601898983608</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601898983608</updated>
+      <workItem from="1601898986643" duration="1714000" />
+      <workItem from="1601900829476" duration="2549000" />
+      <workItem from="1601904084330" duration="475000" />
+      <workItem from="1601907434307" duration="565000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="510" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601907475525">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="510" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1601907475525" />
+    <state x="487" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601901280287">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1601901280287" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1601908093985">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601908093985" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1601908093985">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601908093985" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1601908093985">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601908093985" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1601908093985">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601908093985" />
+    <state x="437" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1601907434476">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="437" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1601907434476" />
+    <state x="167" y="42" key="new project wizard" timestamp="1601899516952">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="167" y="42" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1601899516952" />
+  </component>
+</project>
